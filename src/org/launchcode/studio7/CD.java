@@ -1,6 +1,10 @@
 package org.launchcode.studio7;
 
-public class CD {
+public class CD extends Disc implements Spinnable{
+    @Override
+    public void spin() {
+
+    }
 
     // TODO: Implement your custom interface.
 
