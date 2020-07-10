@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="525a1ed1-d105-4b47-8b2b-059b1e21eee6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/launchcode/studio7/Disc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/launchcode/studio7/Spinnable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/launchcode/studio7/CD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/studio7/CD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/launchcode/studio7/DVD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/studio7/DVD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/launchcode/studio7/Disc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/studio7/Disc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/launchcode/studio7/Spinnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/studio7/Spinnable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +50,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573242472194</updated>
-      <workItem from="1594336061397" duration="2528000" />
+      <workItem from="1594336061397" duration="4371000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1594338682021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594338682021</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,10 +77,26 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1173" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1594338149566">
+    <state x="1173" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1594339890456">
       <screen x="0" y="22" width="1920" height="935" />
     </state>
-    <state x="1173" y="233" key="#com.intellij.ide.util.MemberChooser/0.22.1920.935@0.22.1920.935" timestamp="1594338149566" />
+    <state x="1173" y="233" key="#com.intellij.ide.util.MemberChooser/0.22.1920.935@0.22.1920.935" timestamp="1594339890456" />
+    <state x="946" y="113" key="CommitChangelistDialog2" timestamp="1594338681172">
+      <screen x="0" y="22" width="1920" height="935" />
+    </state>
+    <state x="946" y="113" key="CommitChangelistDialog2/0.22.1920.935@0.22.1920.935" timestamp="1594338681172" />
+    <state x="960" y="259" key="Vcs.Push.Dialog.v2" timestamp="1594338688583">
+      <screen x="0" y="22" width="1920" height="935" />
+    </state>
+    <state x="960" y="259" key="Vcs.Push.Dialog.v2/0.22.1920.935@0.22.1920.935" timestamp="1594338688583" />
+    <state x="1205" y="297" key="refactoring.ChangeSignatureDialog" timestamp="1594340029307">
+      <screen x="0" y="22" width="1920" height="935" />
+    </state>
+    <state x="1205" y="297" key="refactoring.ChangeSignatureDialog/0.22.1920.935@0.22.1920.935" timestamp="1594340029307" />
   </component>
 </project>

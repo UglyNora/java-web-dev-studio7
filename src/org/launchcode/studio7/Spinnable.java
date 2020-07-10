@@ -4,4 +4,7 @@ public interface Spinnable {
     void spin();
     void read();
     void write();
+    void eject();
+    void load ();
+
 }

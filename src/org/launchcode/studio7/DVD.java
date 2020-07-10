@@ -1,8 +1,22 @@
 package org.launchcode.studio7;
 
 public class DVD extends Disc implements Spinnable {
+    public DVD(String title, String artist, double capacity, String discType) {
+        super();
+    }
+
     @Override
     public void spin() {
+
+    }
+
+    @Override
+    public void read() {
+
+    }
+
+    @Override
+    public void write() {
 
     }
 
