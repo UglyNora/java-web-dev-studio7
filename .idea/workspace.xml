@@ -6,7 +6,8 @@
       <change beforePath="$PROJECT_DIR$/src/org/launchcode/studio7/CD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/studio7/CD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/launchcode/studio7/DVD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/studio7/DVD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/launchcode/studio7/Disc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/studio7/Disc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/launchcode/studio7/Spinnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/studio7/Spinnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/launchcode/studio7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/studio7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/launchcode/studio7/Spinnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/studio7/OpticalDisc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,26 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.launchcode.studio7.Main" />
+      <module name="java-web-dev-studio7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.launchcode.studio7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -50,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573242472194</updated>
-      <workItem from="1594336061397" duration="4371000" />
+      <workItem from="1594336061397" duration="7001000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1594338682021</created>
@@ -59,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594338682021</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created Spinnable Interface">
+      <created>1594340551403</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594340551403</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,21 +107,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Created Spinnable Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Spinnable Interface" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1173" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1594339890456">
+    <state x="1173" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1594341589505">
       <screen x="0" y="22" width="1920" height="935" />
     </state>
-    <state x="1173" y="233" key="#com.intellij.ide.util.MemberChooser/0.22.1920.935@0.22.1920.935" timestamp="1594339890456" />
-    <state x="946" y="113" key="CommitChangelistDialog2" timestamp="1594338681172">
+    <state x="1173" y="233" key="#com.intellij.ide.util.MemberChooser/0.22.1920.935@0.22.1920.935" timestamp="1594341589505" />
+    <state x="946" y="113" key="CommitChangelistDialog2" timestamp="1594340550954">
       <screen x="0" y="22" width="1920" height="935" />
     </state>
-    <state x="946" y="113" key="CommitChangelistDialog2/0.22.1920.935@0.22.1920.935" timestamp="1594338681172" />
-    <state x="960" y="259" key="Vcs.Push.Dialog.v2" timestamp="1594338688583">
+    <state x="946" y="113" key="CommitChangelistDialog2/0.22.1920.935@0.22.1920.935" timestamp="1594340550954" />
+    <state x="960" y="259" key="Vcs.Push.Dialog.v2" timestamp="1594340794734">
       <screen x="0" y="22" width="1920" height="935" />
     </state>
-    <state x="960" y="259" key="Vcs.Push.Dialog.v2/0.22.1920.935@0.22.1920.935" timestamp="1594338688583" />
+    <state x="960" y="259" key="Vcs.Push.Dialog.v2/0.22.1920.935@0.22.1920.935" timestamp="1594340794734" />
     <state x="1205" y="297" key="refactoring.ChangeSignatureDialog" timestamp="1594340029307">
       <screen x="0" y="22" width="1920" height="935" />
     </state>

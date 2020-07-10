@@ -1,13 +1,16 @@
 package org.launchcode.studio7;
 
-public class CD extends Disc implements Spinnable{
+public class CD extends Disc implements OpticalDisc{
     public CD(String title, String artist, double capacity, String discType) {
         super();
     }
 
-    @Override
-    public void spin() {
 
+
+    @Override
+    public int spin() {
+       int rpm = 789;
+        return 789;
     }
 
     @Override
@@ -17,6 +20,16 @@ public class CD extends Disc implements Spinnable{
 
     @Override
     public void write() {
+
+    }
+
+    @Override
+    public void eject() {
+
+    }
+
+    @Override
+    public void load() {
 
     }
 

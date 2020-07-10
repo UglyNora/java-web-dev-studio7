@@ -7,6 +7,16 @@ public abstract class Disc {
     private double capacity;
     private String discType;
 
+    public boolean isFormatted() {
+        return isFormatted;
+    }
+
+    public void setFormatted(boolean formatted) {
+        isFormatted = formatted;
+    }
+
+    private boolean isFormatted = false;
+
     public Disc() {
         this.title = title;
         this.artist = artist;
